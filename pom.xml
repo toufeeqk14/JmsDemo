@@ -36,7 +36,7 @@
 	<name>maven-snapshots</name>
 	<url>http://localhost:8081/repository/maven-snapshots</url>
 	</snapshotRepository>
-	</distributionManag
+	</distributionManagement>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
